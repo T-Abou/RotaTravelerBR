@@ -1,2 +1,2 @@
 # RotaTravelerBR
-## Diretório para subir os códigos usado nas análises do Challenge da ClickBus
+## Diretório para subir arquivos relevantes sobre o challenge da ClickBus
